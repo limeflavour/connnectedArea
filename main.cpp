@@ -63,7 +63,7 @@ int main()
             }
 
         }
-        cout << "检测到符合条件的连通域个数为： " << count << endl;
+        cout << "检测到符合条件的连通域个数为：" << count << endl;
 
 
         for (int i = 0; i < nccomps; i++)
